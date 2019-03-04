@@ -6,10 +6,8 @@ public class MyFirstProgram {
     hello("Andrey");
     Square s = new Square(4);
     Rectangle r = new Rectangle(2, 4);
-
     Point pointA = new Point(2, 3);
     Point pointB = new Point(3, 5);
-
     System.out.println("(Function)Ditance from poin A " + pointA.pointX + "/" + pointA.pointY +
             " to point B " + pointB.pointX+"/"+pointB.pointY + " is " + distance(pointA, pointB));
 
