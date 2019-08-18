@@ -6,6 +6,8 @@
       <module name="addressBook.test" target="1.8" />
       <module name="SandBox.main" target="1.8" />
       <module name="SandBox.test" target="1.8" />
+      <module name="SandBoxNew.main" target="1.8" />
+      <module name="SandBoxNew.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

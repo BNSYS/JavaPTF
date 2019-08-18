@@ -9,16 +9,21 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.Select;
 
 public class GroupCreating {
-  private WebDriver driver;
-  private String baseUrl;
+//  private WebDriver driver;
+//  private String baseUrl;
+  FirefoxDriver driver;
   private boolean acceptNextAlert = true;
   private StringBuffer verificationErrors = new StringBuffer();
 
   @BeforeClass(alwaysRun = true)
   public void setUp() throws Exception {
-    driver = new FirefoxDriver();
-    baseUrl = "https://www.katalon.com/";
-    driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+//    String projectLocation = System.getProperty("user.dir");
+//    System.setProperty("webdriver.gecko.driver", projectLocation + "/lib/geckodriver");
+      driver = new FirefoxDriver();
+//    driver.get=
+//    baseUrl = "https://www.katalon.com/";
+      driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
+
   }
 
   @Test
