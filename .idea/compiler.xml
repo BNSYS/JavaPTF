@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="addressBook.main" target="1.8" />
       <module name="addressBook.test" target="1.8" />
+      <module name="addressBookWebTests.main" target="1.8" />
+      <module name="addressBookWebTests.test" target="1.8" />
       <module name="SandBox.main" target="1.8" />
       <module name="SandBox.test" target="1.8" />
       <module name="SandBoxNew.main" target="1.8" />

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="addressBook:main" external.linked.project.path="$MODULE_DIR$/../../addressBook" external.root.project.path="$MODULE_DIR$/../../addressBook" external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="addressBookWebTests:main" external.linked.project.path="$MODULE_DIR$/../../addressBookWebTests" external.root.project.path="$MODULE_DIR$/../../addressBookWebTests" external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output url="file://$MODULE_DIR$/../../addressBook/out/production/classes" />
+    <output url="file://$MODULE_DIR$/../../addressBookWebTests/out/production/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../addressBook/src/main">
-      <sourceFolder url="file://$MODULE_DIR$/../../addressBook/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../addressBook/src/main/resources" type="java-resource" />
+    <content url="file://$MODULE_DIR$/../../addressBookWebTests/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../addressBookWebTests/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../addressBookWebTests/src/main/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
